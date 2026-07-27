@@ -44,17 +44,21 @@ This assessment includes:
 
 # 🔍 Findings
 
-*Assessment in progress.*
+## Finding #1 - Network Environment
 
-Findings will be documented after completing the network review.
+During this assessment, my device was connected to a public wireless network (Library-Public) with a strong signal.
 
----
+### Security Observation
 
-# ✅ Recommendations
+Public Wi-Fi networks should always be considered untrusted because multiple users can connect to the same network. Sensitive activities should be protected by using HTTPS websites, avoiding unnecessary file sharing, and keeping the device firewall enabled.
 
-Recommendations will be added after analyzing the network.
+### Risk Level
 
----
+Medium
+
+### Recommendation
+
+Avoid accessing sensitive information on public Wi-Fi unless the connection is encrypted. When possible, use a trusted home network or a reputable VPN when handling confidential data.
 
 # 📚 Skills Demonstrated
 
